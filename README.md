@@ -1,10 +1,11 @@
 # Towards Accurate Text-based Image Captioning with Content Diversity Exploration
 
-Pytorch implementation for the CVPR 2021 paper:  [Towards Accurate Text-based Image Captioning with Content Diversity Exploration](https://github.com/guanghuixu/AnchorCaptioner/blob/main/docs/source/projects/TextCap_CVPR.pdf)
+Pytorch implementation for the CVPR 2021 paper:  [Towards Accurate Text-based Image Captioning with Content Diversity Exploration](https://github.com/guanghuixu/AnchorCaptioner/blob/main/projects/TextCap_CVPR.pdf)
 
 <p align="center">
 <img src="overview.png" alt="Anchor Captioner" width="100%" align=center />
 </p>
+
 ## Install
 
 Clone this repository, and build it with the following command.
@@ -22,7 +23,7 @@ python setup.py build develop
 
 ## Data and running scripts
 
-Some specific annotations required by our method are provided in [here](https://github.com/guanghuixu/AnchorCaptioner/releases/download/data/data.zip). More details please refer to [projects/M4C_Captioner/README.md](https://github.com/guanghuixu/AnchorCaptioner/blob/project/m4c_captioner_pre_release/projects/M4C_Captioner/README.md)
+Some specific annotations required by our method are provided in [here](https://github.com/guanghuixu/AnchorCaptioner/releases/download/data/data.zip). More details please refer to [projects/M4C_Captioner/README.md](https://github.com/guanghuixu/AnchorCaptioner/blob/main/projects/M4C_Captioner/README.md)
 
 ## Citation
 
